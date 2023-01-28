@@ -3,7 +3,7 @@
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 200px;
   pointer-events: none;
 }
 
@@ -26,6 +26,7 @@
 
 .App-link {
   color: #61dafb;
+  font-size:16px;
 }
 
 @keyframes App-logo-spin {
@@ -35,4 +36,25 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.div-tract {
+  width:600px;
+  padding:20px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 13px;
+  text-align: justify;
+}
+
+.header-p {
+  font-size:18px;
+}
+
+ul li {
+  font-size:16px;
+}
+
+ul {
+  padding:0;
+  margin:0;
 }
